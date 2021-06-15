@@ -12,7 +12,7 @@ mydb = config.mydb
 
 # API
 os.environ[
-    'GOOGLE_APPLICATION_CREDENTIALS'] = r'C:\Users\Win10Pro\Desktop\bots\TranslatorBot-Telegram-Bot-main\bot\tokyo-scholar-301509-67f3ea0cd6e4.json'
+    'GOOGLE_APPLICATION_CREDENTIALS'] = r''
 
 # глобальные переменные
 glob_lang = 'en'
