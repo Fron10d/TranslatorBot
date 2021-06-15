@@ -7,7 +7,7 @@ import os
 import time
 
 # TOKEN
-bot = telebot.TeleBot('1390523746:AAEs-WITnB5NYLgxVi_jXhSkyXM0Z34n6II')
+bot = telebot.TeleBot('TOKEN')
 mydb = config.mydb
 
 # API
