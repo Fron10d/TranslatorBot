@@ -1,4 +1,3 @@
 # TranslatorBot-Telegram-Bot
-Бұл мәтіндерді және хабарламаларды аударушы-бот, ботты іске қосу үшін, керекті кітапханаларды орнатып, "python3 TranslatorBot.py" командасын еңгізініз
-
-Для работы Вам необходим json от google cloud, чтобы воспользоваться google translate api
+This is a bot that translates texts and messages, to run the bot, install the necessary libraries, and use  "python3 TranslatorBot.py" command
+To work, you need json from Google cloud to use the Google translate api
